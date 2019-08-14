@@ -107,18 +107,12 @@ using namespace std;
 #define g 9.8/100
 #define G 9.8
 #define PI 3.14159265
-//int xCircle;
-//int yCircle;
-//int radius=80;
+
 double qeta=0;
 double qeta2=180;
-//int xLine = xCircle+(radius+30)*cos(qeta*PI/180);
-//int yLine = yCircle+(radius+30)*sin(qeta*PI/180);
-//int xBall = xCircle;
-//int yBall = yCircle;
+
 int radiusBall=5;
-//int xAxisDraw;
-//int yAxisDraw;
+
 
 int v=10;	
 int vx= v*cos(qeta*PI/180);
